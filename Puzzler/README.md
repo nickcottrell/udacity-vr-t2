@@ -12,14 +12,14 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 ### Persona
 Developed a rough persona to map to this project. The idea is that this should be designed for a relative beginner and should take extra care in making sure this person has a comfortable, engaging experience. This project should help make a good impression for VR in general as well as for the game itself.
 
-![Persona](/img/vr-persona-01.jpg)
+![Persona](/Puzzler/img/vr-persona-01.jpg)
 
 ### Getting Started
 The first thing I did was opened the starter project, got everything up and running properly. I deployed to my phone and verified that it deployed properly.
 
-![In the editor](/img/editor.png)
+![In the editor](/Puzzler/img/editor.png)
 
-![In the headset](/img/Screenshot_20180107-113511.png)
+![In the headset](/Puzzler/img/Screenshot_20180107-113511.png)
 
 
 ### Grayboxing
