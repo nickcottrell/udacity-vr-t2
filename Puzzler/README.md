@@ -50,6 +50,17 @@ Based on that, I decided to make the following changes:
 
 Overall, I think the user testing provided insight and will help me create a better game.
 
+### Adding the theme
+Based on the input from the user testing, I think this theme will work the best. To create this theme, I combined the following Asset bundles.
+
+From there I used X, Y and Z pieces to help tell the story.
+
+Once the main art was in place, I made sure everything worked and was performant on my phone.
+
+I made this performance tweak based on the initial run.
+
+Next I developed the designs for the UI canvas elements. I used X, Y, and Z elements to incorporate the theme.
+
 ### Final Project
 [![App Walkthrough](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
