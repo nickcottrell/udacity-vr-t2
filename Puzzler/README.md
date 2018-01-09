@@ -50,3 +50,6 @@ Based on that, I decided to make the following changes:
 
 Overall, I think the user testing provided insight and will help me create a better game.
 
+### Final Project
+[![App Walkthrough](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
