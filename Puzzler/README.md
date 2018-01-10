@@ -39,7 +39,7 @@ Before actually applying the art to the scene, I want to look a couple of differ
 ### User Testing
 After I have a working graybox prototype and art theme moodboards, I am now ready to do a round of user tests. The main thing I'm trying to guage is interest in the art and story as well as get feedback from the general mechanics, timing and scale of the game.
 
-![User Testing](/Puzzler/img/user-testing.jpg)
+![User Testing](/Puzzler/img/user-testing.png)
 
 ### Lessons Learned from User Testing
 During he first round of user testing, I got the following feedback.
