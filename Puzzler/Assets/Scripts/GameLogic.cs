@@ -26,6 +26,10 @@ public class GameLogic : MonoBehaviour
 	// Variable for storing the index the player is trying to solve.
 	private int currentSolveIndex = 0;
 
+
+	public GameObject playMusic;
+	public GameObject successMusic;
+
 	/* Uncomment the line below during 'A Little More Feedback!' lesson.*/
 	//public GameObject failAudioHolder;
 
@@ -70,6 +74,8 @@ public class GameLogic : MonoBehaviour
 
 		//enable the instructions
 		instructionsUI.SetActive(true);
+
+		playMusic.SetActive(true);
 
 		// Move the player to the play position.
 		iTween.MoveTo(player,
@@ -194,6 +200,7 @@ public class GameLogic : MonoBehaviour
 	{
 		// Enable the restart UI.
 		restartUI.SetActive(true);
+		successMusic.SetActive(true);
 
 		// Move the player to the restart position.
 		iTween.MoveTo(player,
