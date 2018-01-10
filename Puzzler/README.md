@@ -31,24 +31,35 @@ The idea here is to get all working elements working before I actually decide on
 Before actually applying the art to the scene, I want to look a couple of different variations based on the art that I will have access to in the Unity Asset Store. I put together some moodboards on some possible themes. When I do the first round of user testing, I'll use the moodboards to guage interest from others to helpe determine which theme I might go with.
 
 ![Wizard Laboratory](/Puzzler/img/ConceptArt-01.jpg)
+<br>
+<br>
 ![Alien Crash Site](/Puzzler/img/ConceptArt-02.jpg)
 
 
 ### User Testing
 After I have a working graybox prototype and art theme moodboards, I am now ready to do a round of user tests. The main thing I'm trying to guage is interest in the art and story as well as get feedback from the general mechanics, timing and scale of the game.
 
+![User Testing](/Puzzler/img/user-testing.jpg)
+
 ### Lessons Learned from User Testing
-After the first round of user testing, I got the following feedback.
-* feedback one
-* feedback two
-* feedback three
+During he first round of user testing, I got the following feedback.
+* "signage pretty straight forward"
+* "simple and easy to navigate"
+* "movement speed was comfortable"
+* "game contained no instructions" 
+* "it was a little bit confusing as to whether i was clicking or if it was the computer"
+* "it wasn't clear when their turn ended and my turn began"
+* "maybe have a sign that says 'watch the pattern and copy it' or something like that"
+* "maybe the color could be different when i click it versus when the computer clicks"
 
 Based on that, I decided to make the following changes:
-* change one
-* change two
-* change three
+* Add a sign before the user starts playing that helps explain the rules of the game
+* Add a sound at the beginning and end of the computer pattern
+* Add a error sound or some feedback when you get it wrong.
+* Limit the users input to 5 elements and then playing a sound to indicate the turn is over (if needed)
+* Change the color of the user input versus the computer pattern
 
-Overall, I think the user testing provided insight and will help me create a better game.
+Overall, I think the user testing provided insight and helped me create a better game.
 
 ### Adding the theme
 Based on the input from the user testing, I think this theme will work the best. To create this theme, I combined the following Asset bundles.
