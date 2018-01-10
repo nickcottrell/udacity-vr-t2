@@ -1,13 +1,9 @@
 # Puzzler
 
-This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
-
-## Versions
-- Unity 2017.2.0f3
-- GVR Unity SDK v1.60.0
-- iTween v2.0.7
-
 ## Notes on the process
+
+### Purpose
+Puzzler is a game designed for new VR users to get a sense for basic gaze-based controls. The purpose is to have a comfortable user experience and hopefully a positive impression on VR as a way of experiencing media.
 
 ### Persona
 Developed a rough persona to map to this project. The idea is that this should be designed for a relative beginner and should take extra care in making sure this person has a comfortable, engaging experience. This project should help make a good impression for VR in general as well as for the game itself.
@@ -18,7 +14,6 @@ Developed a rough persona to map to this project. The idea is that this should b
 The first thing I did was opened the starter project, got everything up and running properly. I deployed to my phone and verified that it deployed properly.
 
 ![In the editor](/Puzzler/img/editor.png)
-
 ![In the headset](/Puzzler/img/graybox-prototype.png)
 
 
@@ -74,4 +69,13 @@ Next I developed the designs for the UI canvas elements. I used X, Y, and Z elem
 
 ### Final Project
 [![App Walkthrough](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
+
+## Versions
+- Unity 2017.2.0f3
+- GVR Unity SDK v1.60.0
+- iTween v2.0.7
+
+
 
