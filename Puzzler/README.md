@@ -76,7 +76,11 @@ From there I tied the pieces together to help tell the story. The idea is that a
 Once the main art was in place, I made sure everything worked and was performant on my phone.
 
 ### Final Project
+The final project shows the basic game mechanic playing along side a theme. The user is introduced to the story by seeing the crash to the left. When they select the START button, they go into the shack, where they discover the orbs and the game mechanic. When the user solves the puzzle, they make their way out the back window to see the success UI.
 [![App Walkthrough](https://img.youtube.com/vi/ZZD_BoZp8dQ/0.jpg)](https://www.youtube.com/watch?v=ZZD_BoZp8dQ)
+
+### Conclusion
+This project represents how to thoughtfully approach the design of a VR experience. There are many considerations that have to be made about user needs, comfort, control, and comprehension. I was able to test my ideas with users and helped provide rationale for making the game work better.
 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
