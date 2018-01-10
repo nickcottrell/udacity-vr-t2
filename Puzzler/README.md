@@ -77,6 +77,7 @@ Once the main art was in place, I made sure everything worked and was performant
 
 ### Final Project
 The final project shows the basic game mechanic playing along side a theme. The user is introduced to the story by seeing the crash to the left. When they select the START button, they go into the shack, where they discover the orbs and the game mechanic. When the user solves the puzzle, they make their way out the back window to see the success UI.
+<br>
 [![App Walkthrough](https://img.youtube.com/vi/ZZD_BoZp8dQ/0.jpg)](https://www.youtube.com/watch?v=ZZD_BoZp8dQ)
 
 ### Conclusion
