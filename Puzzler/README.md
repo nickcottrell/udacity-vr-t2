@@ -76,7 +76,7 @@ From there I tied the pieces together to help tell the story. The idea is that a
 Once the main art was in place, I made sure everything worked and was performant on my phone.
 
 ### Final Project
-[![App Walkthrough](https://img.youtube.com/vi/ZZD_BoZp8dQ&/0.jpg)](https://www.youtube.com/watch?v=ZZD_BoZp8dQ&)
+[![App Walkthrough](https://img.youtube.com/vi/ZZD_BoZp8dQ/0.jpg)](https://www.youtube.com/watch?v=ZZD_BoZp8dQ)
 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
