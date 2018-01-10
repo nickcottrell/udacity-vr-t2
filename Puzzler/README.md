@@ -19,7 +19,7 @@ The first thing I did was opened the starter project, got everything up and runn
 
 ![In the editor](/Puzzler/img/editor.png)
 
-![In the headset](/Puzzler/img/Screenshot_20180107-113511.png)
+![In the headset](/Puzzler/img/graybox-prototype.png)
 
 
 ### Grayboxing
