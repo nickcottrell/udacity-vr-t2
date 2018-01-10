@@ -6,9 +6,11 @@ public class LightUp : MonoBehaviour
 	// The initial material of the orb.
 	private Material defaultMaterial;
 
-	// The material used to light up the orb.
+	// The material used to light up the orb... on the COMPUTER'S TURN
 	public Material lightUpMaterial;
 
+	// the material used to light up the orb on MY TURN
+	public Material myLightUpMaterial;
 
 
 	// The gameobject that has the GameLogic.cs script attached.
@@ -56,6 +58,12 @@ public class LightUp : MonoBehaviour
 	{ 
 		StartCoroutine(LightFor(duration));
 	}
+		
+	public void MyPatternLightUp(float duration)
+	{ 
+		StartCoroutine(MyLightFor(duration));
+	}
+
 
 	// Called from PatternLightUp(float duration) to light up the orb for a given duration.
 	IEnumerator LightFor(float duration)
@@ -70,6 +78,22 @@ public class LightUp : MonoBehaviour
 		AestheticReset();
 	}
 
+
+
+	IEnumerator MyLightFor(float duration)
+	{ 
+		// Assign the lightup material to the orb and play the audio...
+		MyPatternLightUp();
+
+		// ...wait...
+		yield return new WaitForSeconds(duration - 0.1f);
+
+		// ...revert the material back to the orb's default material.
+		AestheticReset();
+	}
+
+
+
 	// Called from LightFor(float duration) to light up the orb and play the audio.
 	void PatternLightUp()
 	{ 
@@ -78,5 +102,21 @@ public class LightUp : MonoBehaviour
 
 		// Get the GVR audio source component on this orb and play the audio.
 		this.GetComponent<AudioSource>().Play(); 
+	}	
+
+	void MyPatternLightUp()
+	{ 
+		// Assign the lightup material to the orb.
+		this.GetComponent<MeshRenderer>().material = myLightUpMaterial;
+
+		// Get the GVR audio source component on this orb and play the audio.
+		this.GetComponent<AudioSource>().Play(); 
+
+	//	StartCoroutine(Wait(1));
+		//yield return new WaitForSeconds(0.5f);
+	//	this.GetComponent<MeshRenderer>().material = defaultMaterial;
+
 	}
+
+
 }

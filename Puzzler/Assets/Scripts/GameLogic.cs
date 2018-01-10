@@ -5,7 +5,7 @@ public class GameLogic : MonoBehaviour
 {
 	public GameObject player;
 	public GameObject eventSystem;
-	public GameObject startUI, restartUI;
+	public GameObject startUI, restartUI, instructionsUI;
 	public GameObject startPoint, playPoint, restartPoint;
 
 	// An array to hold the orbs.
@@ -67,6 +67,9 @@ public class GameLogic : MonoBehaviour
 	{
 		// Disable the start UI.
 		startUI.SetActive(false);
+
+		//enable the instructions
+		instructionsUI.SetActive(true);
 
 		// Move the player to the play position.
 		iTween.MoveTo(player,
