@@ -1,4 +1,4 @@
-# Puzzler
+# Night at the Museum
 
 ## Notes on the process
 
