@@ -56,6 +56,7 @@ https://assetstore.unity.com/packages/3d/props/interior/gallery-showroom-environ
 Here's a walk through of the final app. As you can see, the setting starts off in a gallery setting. As the instructions state, users click on the spheres in order to learn more about the impact VR is having on various industries.
 
 <br>
+![App Walkthrough](https://img.youtube.com/vi/qjHm1dLnGeM/0.jpg)
 [![App Walkthrough](https://img.youtube.com/vi/qjHm1dLnGeM/0.jpg)](https://www.youtube.com/watch?v=qjHm1dLnGeM)
 
 ### Conclusion
