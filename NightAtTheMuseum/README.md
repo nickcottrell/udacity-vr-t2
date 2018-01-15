@@ -25,10 +25,6 @@ To kick off the project, I got some basic working elements put together before i
 ![Basic UI](/NightAtTheMuseum/img/graybox-lobby.png)
 ![Basic UI](/NightAtTheMuseum/img/graybox-booth.png)
 
-### Conceptual Art
-Some ideas about the concept art and approach for the environments and UI.
-
-
 ### User Testing
 After I got a graybox prototype complete, I completed a user test. The test was to drop the user in a basic lobby and have them click on the various booths to enter each photosphere. The basic idea was to get insights about navigation, layout and general feel of the direction.
 
@@ -74,6 +70,9 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 - Unity 2017.2.0f3
 - GVR Unity SDK v1.60.0
 - iTween v2.0.7
+
+
+qjHm1dLnGeM
 
 
 
