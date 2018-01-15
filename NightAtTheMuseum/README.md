@@ -21,6 +21,7 @@ The first step was to setup the project, and get the basic mechanic working. For
 
 To kick off the project, I got some basic working elements put together before implemented a full environment. Once that stuff was working, I deployed to my phone.
 
+![Basic UI](/NightAtTheMuseum/img/sketches.png)
 ![Basic UI](/NightAtTheMuseum/img/graybox-lobby.png)
 ![Basic UI](/NightAtTheMuseum/img/graybox-booth.png)
 
