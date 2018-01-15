@@ -44,20 +44,29 @@ Based on that, I decided to make the following changes:
 * Adjust the position of the back button so it's visible on load
 
 ### Adding the theme
-To create this theme, I combined the following Asset bundles:
-* Asset Bundle
-* Asset Bundle
-* Asset Bundle
+To keep it simple and performant, I wanted to keep the theme as a pretty straight forward art gallery look. The idea is that the background can contain some white walls with light beams projected on them for a dynamic, yet not distracting background. For the most part, the colorful floating orbs are enough to focus on.
 
-Thoughts on the process for creating the Art for the environment...
+![User Testing](/NightAtTheMuseum/img/art-concept.jpg)
+
+For consistency I carried the floor texture over from the gallery to the 360 image base.
+
+I used a floor texture from the following bundle:
+https://assetstore.unity.com/packages/3d/environments/showroom-environment-73740
+
+I got the velvet rope prop from the following bundle:
+https://assetstore.unity.com/packages/3d/props/interior/gallery-showroom-environment-92146
 
 ### Final Project
-Thoughts on the final project...
+Here's a walk through of the final app. As you can see, the setting starts off in a gallery setting. As the instructions state, users click on the spheres in order to learn more about the impact VR is having on various industries.
+
 <br>
 [![App Walkthrough](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Conclusion
-Conclusion statement...
+The final project provides a good intro into the kinds of things you can do in VR. Virtual Reality isn't just about games. It's about connecting with friends, empathizing with people, and connecting with parts of the world that you don't normally have access to. 
+
+Virtual Reality also has the power to make people more productive. The examples here for that include advancements in Architecture and Medical fields. In Architecture it's about helping people understand the outcome of a long process. In Medicine, it's about simulating exerience for training, and even for modifying behaviors and aleviating trauma. Beyond that, VR will help provide new ways to connect with and understand information.
+
 
 This project is part of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
