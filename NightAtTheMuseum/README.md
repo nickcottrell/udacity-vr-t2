@@ -46,17 +46,13 @@ To keep it simple and performant, I wanted to keep the theme as a pretty straigh
 
 For consistency I carried the floor texture over from the gallery to the 360 image base.
 
-I used a floor texture from the following bundle:
-https://assetstore.unity.com/packages/3d/environments/showroom-environment-73740
+I used a floor texture from this [asset bundle](https://assetstore.unity.com/packages/3d/environments/showroom-environment-73740).
 
-I got the velvet rope prop from the following bundle:
-https://assetstore.unity.com/packages/3d/props/interior/gallery-showroom-environment-92146
+I got the velvet rope prop from this [asset bundle](https://assetstore.unity.com/packages/3d/props/interior/gallery-showroom-environment-92146).
 
 ### Final Project
 Here's a walk through of the final app. As you can see, the setting starts off in a gallery setting. As the instructions state, users click on the spheres in order to learn more about the impact VR is having on various industries.
-
 <br>
-![App Walkthrough](https://img.youtube.com/vi/qjHm1dLnGeM/0.jpg)
 [![App Walkthrough](https://img.youtube.com/vi/qjHm1dLnGeM/0.jpg)](https://www.youtube.com/watch?v=qjHm1dLnGeM)
 
 ### Conclusion
