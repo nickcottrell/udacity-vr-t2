@@ -10,9 +10,6 @@ The purpose of Night at the Museum is to help people understand the different us
 * Virtual Tourism
 * Architecture
 * Medical
-* Gaming
-* Storytelling
-
 
 ### Persona
 The persona for this project was very similar to the first term 2 project, but this time, the idea is to focus on someone who is interested in VR and wants to dive deeper into what it could be used for. This idea was still that this should be designed for a relative beginner and should take extra care in making sure this person has a comfortable, engaging experience. The intent of the project is to help make a good impression for VR in general and help provide a good overview of various aspects of the industry.
@@ -32,21 +29,18 @@ Some ideas about the concept art and approach for the environments and UI.
 
 
 ### User Testing
-Description of the user test.
+After I got a graybox prototype complete, I completed a user test. The test was to drop the user in a basic lobby and have them click on the various booths to enter each photosphere. The basic idea was to get insights about navigation, layout and general feel of the direction.
 
-![User Testing](/NightAtTheMuseum/img/user-testing.png)
+![User Testing](/NightAtTheMuseum/img/user-test.png)
 
 ### Lessons Learned from User Testing
 During the first round of user testing, I got the following feedback.
-* "insightful quote"
-* "insightful quote"
-* "insightful quote"
+* "It made me dizzy when I looked down and didn't see a solid floor"...referring to 360 photosphere
+* "How do I get back to the lobby?"
 
 Based on that, I decided to make the following changes:
-* Action item
-* Action item
-* Action item
-
+* Add a consistent solid ground to the 360 photoshperes
+* Adjust the position of the back button so it's visible on load
 
 ### Adding the theme
 To create this theme, I combined the following Asset bundles:
