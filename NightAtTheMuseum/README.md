@@ -3,7 +3,7 @@
 ## Notes on the process
 
 ### Purpose
-The purpose of Night at the Museum is to help people understand the different use cases of VR. It does this by showcases those topics from within a VR experience. Users are transformed to different settings that each focus on a different flavor of the industry. This project covers several topics. It includes:
+The purpose of Night at the Museum is to help people understand the different use cases of VR. It does this by showcases those topics from within a VR experience. Users are transformed to different settings that each focus on a different flavor of the industry. The idea is to provide an immersive, engaging and performant experience. Also since VR covers so many items, the intent is that the information is presented in a clear and consistent manner. Hopefully users will come away from this experience with a more broad sense of how VR can be useful--It's not just about games! This project covers several topics, including:
 
 * Journalism
 * Social VR
@@ -60,7 +60,7 @@ https://assetstore.unity.com/packages/3d/props/interior/gallery-showroom-environ
 Here's a walk through of the final app. As you can see, the setting starts off in a gallery setting. As the instructions state, users click on the spheres in order to learn more about the impact VR is having on various industries.
 
 <br>
-[![App Walkthrough](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![App Walkthrough](https://img.youtube.com/vi/qjHm1dLnGeM/0.jpg)](https://www.youtube.com/watch?v=qjHm1dLnGeM)
 
 ### Conclusion
 The final project provides a good intro into the kinds of things you can do in VR. Virtual Reality isn't just about games. It's about connecting with friends, empathizing with people, and connecting with parts of the world that you don't normally have access to. 
