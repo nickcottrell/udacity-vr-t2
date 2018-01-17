@@ -9,4 +9,4 @@ Puzzler is a game designed for new VR users to get a sense for basic gaze-based 
 ## Night at the Museum
 The purpose of Night at the Museum is to help people understand the different use cases of VR. It does this by showcases those topics from within a VR experience. Users are transformed to different settings that each focus on a different flavor of the industry. The idea is to provide an immersive, engaging and performant experience. Also since VR covers so many items, the intent is that the information is presented in a clear and consistent manner. Hopefully users will come away from this experience with a more broad sense of how VR can be useful--It's not just about games! 
 
-![Night at the Museum](/Puzzler/img/nightatthemuseum.png)
+![Night at the Museum](/NightAtTheMuseum/img/nightatthemuseum.png)
