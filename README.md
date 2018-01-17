@@ -1,4 +1,4 @@
-# udacity-vr-t2
+# Udacity VR Developer Course - Term 2
 Projects completed during Udacity VR Course Term 2. During this course, I learned about the fundamentals of VR design. The course covered ergonomics, user testing, and interface design, and established a generalized, repeatable process to approach any VR design task. The course provided an overview from industry professionals about the current state of the VR industry and the future of Mixed Reality.
 
 ## Puzzler
